@@ -1,6 +1,11 @@
 import React from "react"
 import App from "next/app"
 
+import "../assets/css/variable.css"
+import "../assets/css/theme-light.css"
+import "../assets/css/theme-dark.css"
+import "../assets/css/base.css"
+
 class MyApp extends App {
   componentDidMount() {
     /*const isLocal = localStorage.getItem("theme")
