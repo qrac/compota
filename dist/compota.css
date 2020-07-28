@@ -1,0 +1,10 @@
+/*! COMPOTA v0.0.0 CC0-1.0 by Qrac */
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: inherit;
+}

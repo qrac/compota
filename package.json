@@ -1,0 +1,26 @@
+{
+  "name": "compota",
+  "description": "Japanese web development framework for web components and micro front ends",
+  "version": "0.0.0",
+  "main": "dist/compota.css",
+  "license": "CC0-1.0",
+  "scripts": {},
+  "homepage": "https://github.com/qrac/compota",
+  "repository": "https://github.com/qrac/compota",
+  "bugs": "https://github.com/qrac/compota/issues",
+  "keywords": [
+    "css",
+    "framework",
+    "japanese",
+    "web-components",
+    "compota"
+  ],
+  "author": {
+    "name": "Qrac",
+    "url": "https://qrac.jp"
+  },
+  "organization": {
+    "name": "QRANOKO",
+    "url": "https://qranoko.jp"
+  }
+}
