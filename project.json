@@ -1,3 +1,6 @@
 {
-  "name": "COMPOTA"
+  "name": "COMPOTA",
+  "colors": {
+    "theme-light": ["#ffffff", "#ffd500", "#002b33"]
+  }
 }
