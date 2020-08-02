@@ -45,7 +45,18 @@ body[data-theme="dark"] {
 }
 
 html {
-  font-family: var(--font-sans);
+  font-family: var(
+    --font-sans,
+    "Hiragino Sans",
+    "Hiragino Kaku Gothic ProN",
+    "Noto Sans Japanese",
+    Meiryo,
+    "Yu Gothic Medium",
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol"
+  );
   word-break: break-word;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -53,8 +64,8 @@ html {
 }
 
 body {
-  background: var(--bg-1);
-  color: var(--tx-2);
+  background: var(--bg-1, #ffffff);
+  color: var(--tx-2, #202020);
   font-size: 1rem;
   line-height: 1.5;
   word-break: break-word;
