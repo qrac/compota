@@ -46,7 +46,7 @@
     "autoprefixer": "^9.8.5",
     "clean-css-cli": "^4.3.0",
     "concat": "^1.0.3",
-    "next": "^9.5.0",
+    "next": "^11.1.0",
     "postcss-cli": "^7.1.1",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-preset-env": "^6.7.0",
