@@ -41,12 +41,12 @@
     "last 1 ChromeAndroid versions"
   ],
   "devDependencies": {
-    "@mdx-js/loader": "^1.6.14",
+    "@mdx-js/loader": "^2.1.5",
     "@next/mdx": "^9.5.0",
     "autoprefixer": "^9.8.5",
     "clean-css-cli": "^4.3.0",
     "concat": "^1.0.3",
-    "next": "^11.1.0",
+    "next": "^13.0.3",
     "postcss-cli": "^7.1.1",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-preset-env": "^6.7.0",
